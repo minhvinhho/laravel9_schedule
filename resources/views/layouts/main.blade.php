@@ -26,7 +26,7 @@
         <div class="container">
             <div class="columns" >
                 <div class="column appinfo">
-                    <img src="{{ asset('images/logo.svg') }}" class="bear-logo">
+                    <img src="{{ asset('images/logo_svg.png') }}" class="bear-logo">
                     <h1 class="title">
                         {{ env('APP_NAME', 'Projects') }}
                     </h1>

@@ -24,7 +24,7 @@
                 <p class="subtitle has-text-black">@yield('subtitle')</p>
                 <div class="box">
                     <figure class="avatar-borderless">
-                        <img src="{{ asset('images/logo.svg') }}" style="height: 128px; ">
+                        <img src="{{ asset('images/logo_svg.png') }}" style="height: 128px; ">
                     </figure>
                     @section('content')
                         @lang('general.content_not_loaded')
